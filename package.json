@@ -1,0 +1,10 @@
+{
+  "name": "typescript-nodenext-module",
+  "type": "module",
+  "scripts": {
+    "test": "tsc --noEmit --pretty"
+  },
+  "dependencies": {
+    "typescript": "4.7.4"
+  }
+}
